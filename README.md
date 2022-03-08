@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poonamdev
-- 👀 I’m interested in C#, JavaScript and RPA
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Machine Learning
+- 👀 I’m interested in C#, ASP.NET MVC
+- 🌱 I’m currently learning javascript, Angular
+- 💞️ I’m looking to collaborate on .net full stack development
 
 <!---
 poonamdev/poonamdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
